@@ -19,10 +19,10 @@ tinggal `git clone`, install, tq
 
 ```bash
 # Clone projectnya
-git clone https://github.com/username/your-repo.git project-kerennya
+git clone https://github.com/zuLmeister/reactvite-tailwind-boilerplate.git
 
 # Masuk foldernya
-cd project-kerennya
+cd reactvite-tailwind-boilerplate
 
 # Install dependency
 npm install
