@@ -1,6 +1,6 @@
 # React + Vite + Tailwind Boilerplate
 
-Boilerplate ini dibuat khusus buat manusia yang _terlalu sering lupa_ install tailwind setiap bikin project baru ( yaitu saya ) dan _terlalu malas_  buat setup dari awal ( yaitu saya ) padahal itu hal mudah
+Boilerplate ini dibuat khusus buat manusia yang _terlalu sering lupa_ cara install tailwind setiap bikin project baru ( yaitu saya ) dan _terlalu malas_  buat setup dari awal ( yaitu saya ) padahal itu hal mudah
 
 tinggal `git clone`, install, tq
 
